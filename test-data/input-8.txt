@@ -1,0 +1,6 @@
+# Test alternating torpedo stores in SINGLE mode
+# Primary always works, secondary always fails
+GT4500,2,0,2,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

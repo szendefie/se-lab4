@@ -1,0 +1,3 @@
+# Primary store is empty, secondary store has torpedoes
+GT4500,0,0,2,0
+TORPEDO,SINGLE # should fire from secondary store
